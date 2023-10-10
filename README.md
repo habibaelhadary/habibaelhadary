@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1 align="center">Hi, I'm Habiba Elhadary 👋</h1>
 <!--
 **habibaelhadary/habibaelhadary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
