@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Habiba Elhadary 🌱⚡ </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=298EBB&width=435&lines=I'm+Mariam+%2C+A+passionate+Software+Engineer+,+Data+Analysis+and+Machinelearning+Deeplearning+(+NLP+and+CV+);I+always+have+a+passion+for+coding+and+learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=298EBB&width=435&lines=I'm+Habiba+%2C+A+passionate+Software+Engineer+,+Data+Analysis+and+Machinelearning+Deeplearning+(+NLP+and+CV+);I+always+have+a+passion+for+coding+and+learning" alt="Typing SVG" /></a>
 <!--
 **habibaelhadary/habibaelhadary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
