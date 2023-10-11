@@ -6,7 +6,6 @@
     <a href="https://twitter.com/HabibaElhadary3"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/habiba-elhadary-8b6b9a195/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
-<img src="https://github.com/habibaelhadary/habibaelhadary/blob/master/photo.avif" align="right" width="25%"/>
 <h3 align="center">A fresh graduate from  Al Azhar University👩‍🎓</h3>
 - 👩‍💻 Electrical Engineering and Computer Science
 
