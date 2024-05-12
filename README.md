@@ -9,7 +9,7 @@
 <h3 align="center">A fresh graduate from  Al Azhar University👩‍🎓</h3>
 - 👩‍💻 Electrical Engineering and Computer Science
 
--🔍 I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/179x4sAn7WV26kBlZ6Jhrb0BcF8drq3vs/view?usp=sharing).
+-🔍 I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/19nMLvkzS-MjkQ7UUSu3YI6Ddw7APpoRi/view?usp=sharing).
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,github,html,css,postman,stackoverflow,selenium,flask)](https://skillicons.dev)
