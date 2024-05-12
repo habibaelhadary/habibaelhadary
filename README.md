@@ -1,7 +1,5 @@
 <h1 align="center">Hi👋, I'm Habiba Elhadary 🤗⚡🌱 </h1>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=778899&width=1000&lines=I'm+Habiba+%2C+A+passionate+Software+Engineer+,+FullStack Developer (.Net)+,+I Know about+Machinelearning+and+Deeplearning+(+NLP+and+CV+);I+always+have+a+passion+for+problem_solving+and+learning" alt="Typing SVG" /></a>
-</p>
+
 <p align="center">
     <a href="https://twitter.com/HabibaElhadary3"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/habiba-elhadary-8b6b9a195"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
