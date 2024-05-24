@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/habiba-elhadary-8b6b9a195"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 <h3 align="center">A fresh graduate from  Al Azhar University👩‍🎓</h3>
-- 👩‍💻 Electrical Engineering and Computer Science
+- 👩‍💻Computer Engineering
 
 -🔍 I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/19nMLvkzS-MjkQ7UUSu3YI6Ddw7APpoRi/view?usp=sharing).
 <h3 align="left">Languages and Tools:</h3>
